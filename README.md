@@ -206,7 +206,7 @@ Berdasarkan hasil Random Forest, fitur yang memiliki kontribusi terbesar terhada
 Clone repository:
 
 ```bash
-git clone https://github.com/username/heart-disease-ml.git
+git clone https://github.com/ravsanrep/heart-disease-ml.git
 cd heart-disease-ml
 ```
 
