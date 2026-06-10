@@ -167,13 +167,11 @@ Mengidentifikasi fitur yang paling berpengaruh terhadap prediksi penyakit jantun
 
 ## Results
 
-Contoh hasil eksperimen:
-
 | Model               | Accuracy | Precision | Recall | F1 Score |
 | ------------------- | -------- | --------- | ------ | -------- |
-| Logistic Regression | 0.86     | 0.85      | 0.84   | 0.85     |
-| Random Forest       | 0.95     | 0.94      | 0.95   | 0.94     |
-| SVM                 | 0.89     | 0.88      | 0.89   | 0.88     |
+| Logistic Regression | 0.803279     | 0.8      | 0.848485   | 0.823529     |
+| Random Forest       | 0.754098     | 0.764706      | 0.787879   | 0.776119     |
+| SVM                 | 0.770492     | 0.771429      | 0.818182   | 0.794118     |
 
 ### Best Model
 
