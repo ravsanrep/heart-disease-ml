@@ -52,11 +52,6 @@ print(df.isnull().sum())
 print("\nDuplicate Data:")
 print(df.duplicated().sum())
 
-df.drop_duplicates(inplace=True)
-
-print("Shape After Cleaning:")
-print(df.shape)
-
 plt.figure(figsize=(6,4))
 
 sns.countplot(
