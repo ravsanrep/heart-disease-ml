@@ -264,8 +264,10 @@ Dari beberapa model yang diuji, Random Forest memberikan performa terbaik karena
 
 ---
 
-## Author
+## Anggota
 
-Final Project Machine Learning
-
-Universitas / Institusi
+| Nama | NRP |
+| ---- | --- |
+| Abdurrahman Arrafi | 5025241241 |
+| Muhammad Sayyidil Anam | 5025241267 |
+| Naufal Nararya Aydinullah | 5025241251 |
