@@ -266,13 +266,14 @@ heart-disease-ml/
 │
 ├── images/
 │   ├── heatmap.png
-│   ├── confusion_matrix.png
 │   ├── model_comparison.png
-│   └── feature_importance.png
+│   ├── confusion_matrix.png
+│   ├── feature_importance.png
+│   └── roc_curve.png
 │
-├── main.py
 ├── requirements.txt
-└── README.md
+├── README.md
+└── main.py
 ```
 
 ---
