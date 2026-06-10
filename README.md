@@ -67,10 +67,13 @@ Pada penelitian ini digunakan tiga algoritma klasifikasi:
 Dataset Collection
         │
         ▼
+Data Understanding
+        │
+        ▼
 Data Cleaning
         │
         ▼
-Missing Value Handling
+Exploratory Data Analysis (EDA)
         │
         ▼
 Feature Scaling
@@ -81,11 +84,29 @@ Train-Test Split
         ▼
 Model Training
         │
+        ├── Logistic Regression
+        │
+        ├── Random Forest
+        │
+        └── SVM
+        │
         ▼
 Model Evaluation
         │
+        ├── Accuracy
+        ├── Precision
+        ├── Recall
+        ├── F1 Score
+        └── ROC-AUC
+        │
         ▼
-Performance Comparison
+Model Comparison
+        │
+        ▼
+Feature Importance Analysis
+        │
+        ▼
+Conclusion
 ```
 
 ---
